@@ -6,4 +6,4 @@ Eu estou aprendendo Python
   Essa mensagem tem diferentes recuos.
 """
 texto = "'Python'".lstrip()
-print(texto)
+print(mensagem)
